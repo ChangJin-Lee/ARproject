@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "ARprojectEditor Editor Win64 Development (ARproject)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "D:\\Github\\ARproject\\ARproject\\.vscode\\compileCommands_ARproject.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "D:\\Github\\ARproject\\ARproject\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\ARproject\\ARproject\\Source\\ARproject\\ARproject.Build.cs",
+		"D:\\Github\\ARproject\\ARproject\\Source\\ARproject.Target.cs",
+		"D:\\Github\\ARproject\\ARproject\\Source\\ARprojectEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

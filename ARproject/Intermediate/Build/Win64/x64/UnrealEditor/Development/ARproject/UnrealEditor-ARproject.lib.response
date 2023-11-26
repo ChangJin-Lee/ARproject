@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ARproject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Github\ARproject\ARproject\Intermediate\Build\Win64\x64\ARprojectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\Github\ARproject\ARproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARproject\ARproject.init.gen.cpp.obj"
+"D:\Github\ARproject\ARproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARproject\ARprojectGameModeBase.gen.cpp.obj"
+"D:\Github\ARproject\ARproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARproject\ARproject.cpp.obj"
+"D:\Github\ARproject\ARproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARproject\ARprojectGameModeBase.cpp.obj"
+"D:\Github\ARproject\ARproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARproject\Default.rc2.res"
+/OUT:"D:\Github\ARproject\ARproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ARproject\UnrealEditor-ARproject.lib"
